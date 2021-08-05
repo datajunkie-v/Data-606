@@ -22,6 +22,12 @@ This project is to better understand the following:
   2. Factors contributing to the precision and accuracy of each model.
 
 ## Implementation 
+The different Regression machine learning models implemented in this project are:
+  1. Decision Tree Regression
+  2. Random Forest Regression 
+  3. Support Vector Regression 
+
+
 
 
 
