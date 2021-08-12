@@ -25,7 +25,7 @@ This project is to better understand the following:
 The different Regression machine learning models implemented in this project are:
   1. Decision Tree Regression
   2. Random Forest Regression 
-  3. Support Vector Regression 
+  3. ARIMA 
 
 
 
